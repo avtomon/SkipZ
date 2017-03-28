@@ -1,0 +1,9 @@
+{
+    "name": "avtomon/SkipZ",
+    "description": "Managing the order of event handlers",
+    "type": "project",
+    "minimum-stability": "stable",
+    "config": {
+	      "process-timeout": 1800
+    }
+}
